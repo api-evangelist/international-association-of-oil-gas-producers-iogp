@@ -64,5 +64,21 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-International Association of Oil & Gas Producers (IOGP) is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio) and added to the network as a stub for full-pipeline profiling.
-- http://www.iogp.org/
+The International Association of Oil & Gas Producers (IOGP) is a global, not‑for‑profit organization that brings together leading oil and gas companies to promote safe, efficient and sustainable energy supply. IOGP provides a platform for collaboration, best‑practice development, and advocacy for a low‑carbon future, offering resources, research, and guidance to its members and the wider industry.
+
+**Areas:** Company · Energy · Oil & Gas · Non-profit · Collaboration
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](http://www.iogp.org/)
+- [Pricing](https://www.iogp.org/blog/opinions/pricing-carbon-to-help-address-climate-change/)
+- [Sign up](https://www.iogp.org/blog/news/register-now-for-egm-2019-kuala-lumpur/)
+- [Blog](https://www.iogp.org/blog/news/141216/)
+- [Security](https://www.iogp.org/workstreams/safety/security/)
+- [Privacy policy](https://www.iogp.org/privacy-policy/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/international-association-of-oil-gas-producers-iogp/](https://apis.io/providers/international-association-of-oil-gas-producers-iogp/).
